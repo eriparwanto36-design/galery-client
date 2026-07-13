@@ -1,0 +1,2 @@
+# galery-client
+pilih foto
